@@ -86,7 +86,7 @@ country = "USA"; // ❌ TypeError: Assignment to constant variable.
 // Scope	            Function	                     Block	                Block
 // Re-initialization	✅ Yes	                        ✅ Yes	            ❌ No
 // Re-declaration	    ✅ Yes	                        ❌ No	            ❌ No
-// Hoisting	✅ Yes (undefined)	                        🚫 No (TDZ)	        🚫 No (TDZ)
+// Hoisting	        ✅ Yes (undefined)	               🚫 No (TDZ)	        🚫 No (TDZ)
 
 
 
